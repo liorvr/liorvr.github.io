@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lior Verbitsky"
-  avatar           : "profile.png"
+  avatar           : "labme.png" #"profile.png"
   bio              : 
   location         : 
   employer         :
