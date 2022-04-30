@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Chemistry, The Hebrew University of Jerusalem, 2022 (expected)
+  * Advised by [Prof. Uri Banin](https://openscholar.huji.ac.il/baningroup/) and [Prof. Eran Rabani](http://www.cchem.berkeley.edu/ergrp/)
 * B.Sc. in Chemistry, The Hebrew University of Jerusalem, 2019
 
 Work experience
