@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hi there!"
+excerpt: "Hi there!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hi there!
 
 I am an M.Sc. student in theoretical chemistry at the Hebrew University of Jerusalem where I study colloidal quantum dot molecules. Previously I did experimental work in the field of photocatalysis for 3D printing and solar energy harvesting.
 
