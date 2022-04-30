@@ -3,7 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-{: reversed="reversed"}
 ---
 † denotes equal contribution
 
