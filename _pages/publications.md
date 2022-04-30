@@ -10,6 +10,7 @@ author_profile: true
 1. A. Levi†, **L. Verbitsky†**, N. Waiskopf, U. Banin. [Sulfide Ligands in Hybrid Semiconductor–Metal Nanocrystal Photocatalysts: Improved Hole Extraction and Altered Catalysis.](https://dx.doi.org/10.1021/acsami.1c17304) *ACS Applied Materials & Interfaces* **2021**
 1. D. Perry, N. Waiskopf, **L. Verbitsky**, S. Remennik, U. Banin. [Shell stabilization of photocatalytic ZnSe nanorods.](https://dx.doi.org/10.1002/cctc.201901190) *ChemCatChem* **2019**
 1. **L. Verbitsky**, N. Waiskopf, S. Magdassi, U. Banin. [A clear solution: semiconductor nanocrystals as photoinitiators in solvent free polymerization.](https://dx.doi.org/10.1039/C9NR03086G) *Nanoscale* **2019**
+{: reversed="reversed"}
 
 ## Patents
 
