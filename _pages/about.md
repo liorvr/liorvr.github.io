@@ -3,6 +3,7 @@ permalink: /
 title: "Hi there!"
 excerpt: "Hi there!"
 author_profile: true
+priority: 1.0
 redirect_from: 
   - /about/
   - /about.html
