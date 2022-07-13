@@ -10,9 +10,9 @@ sitemap: false
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-[Hi There!](https://liorv.com/)
+[Hi There!]({{ base_path }})
 
-[Publications](https://liorv.com/publications/)
+[Publications]({{ base_path }}/publications/)
 
-[CV](https://liorv.com/cv/)
+[CV]({{ base_path }}/cv/)
 
