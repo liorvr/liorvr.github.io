@@ -8,5 +8,6 @@ Allow: /publications/
 Allow: /cv/
 Allow: /assets/
 Allow: /images/
+Allow: /sitemap.xml
 Disallow: /
 Sitemap: {{ site.url }}/sitemap.xml
