@@ -12,7 +12,7 @@ sitemap:
 
 {% include base_path %}
 
-I am Lior, an incoming graduate student at UC Berkeley.
+I am Lior, a PhD student at UC Berkeley.
 
 I hold an M.Sc. in theoretical chemistry from the Hebrew University of Jerusalem, where I studied the electronic structure of colloidal quantum dot molecules.
 
