@@ -15,4 +15,4 @@ author_profile: true
 
 ## Patents
 
-1. U. Banin, S. Magdassi, N. Waiskopf, **L. E. Verbitsky**. [Nanoparticles and formulations for printing.](https://patents.google.com/patent/US20210087302A1/en) *US Patent App. 16/967,645* **2021**
+1. U. Banin, S. Magdassi, N. Waiskopf, **L. E. Verbitsky**. [Nanoparticles and formulations for printing.](https://patents.google.com/patent/US11608394B2/) *US Patent 11,608,394* **2023**
