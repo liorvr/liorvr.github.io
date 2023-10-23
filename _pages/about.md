@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: default.html
 excerpt: "About me"
 author_profile: true
 title: "Welcome!"
