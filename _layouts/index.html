@@ -25,16 +25,13 @@ layout: compress
     
   {% include browser-upgrade.html %}
   {% include masthead.html %}
-  {% include sidebar.html %}    
-
-  <div id="main" role="main">
   <div class="archive">
+  {% include sidebar.html %}    
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
     
-  </div>
   </div>
   <div class="page__footer">
       <footer>
