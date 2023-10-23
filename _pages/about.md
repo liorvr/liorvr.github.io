@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: default
+layout: index
 excerpt: "About me"
 author_profile: true
 title: "Welcome!"
