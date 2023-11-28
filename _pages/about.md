@@ -13,7 +13,7 @@ sitemap:
 
 {% include base_path %}
 
-I am Lior, a PhD candidate in the group of [James Analytis](https://physics.berkeley.edu/research-faculty/research-groups/analytis-lab) at UC Berkeley.
+I am Lior, a PhD candidate in chemistry at UC Berkeley.
 
 I hold an M.Sc. in theoretical chemistry from the Hebrew University of Jerusalem, where I studied the electronic structure of colloidal quantum dot molecules.
 
