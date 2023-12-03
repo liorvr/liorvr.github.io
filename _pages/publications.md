@@ -7,7 +7,7 @@ author_profile: true
 † denotes equal contribution
 
 {: reversed="reversed"}
-1. A. Levi, B. Hou, O. Alon, Y. Ossia, **L. Verbitsky**, S. Remennik, E. Rabani, U. Banin. The Effect of Monomer Size on Fusion and Coupling in Colloidal Quantum Dot Molecules *Submitted*
+1. A. Levi, B. Hou, O. Alon, Y. Ossia, **L. Verbitsky**, S. Remennik, E. Rabani, U. Banin. The Effect of Monomer Size on Fusion and Coupling in Colloidal Quantum Dot Molecules *Nano Letters* **Accepted**
 1. **L. Verbitsky**, D. Jasrasaria, U. Banin, E. Rabani. [Hybridization and deconfinement in colloidal quantum dot molecules.](https://dx.doi.org/10.1063/5.0112443) *The Journal of Chemical Physics* **2022**
 1. S. Koley, J. Cui, Y. Panfil, Y. Ossia, A. Levi, E. Scharf, **L. Verbitsky**, U. Banin. [Photon Correlations in Colloidal Quantum Dot Molecules Controlled by the Neck Barrier.](https://dx.doi.org/10.1016/j.matt.2022.07.032) *Matter* **2022**
 1. A. Levi<sup>†</sup>, **L. Verbitsky<sup>†</sup>**, N. Waiskopf, U. Banin. [Sulfide Ligands in Hybrid Semiconductor–Metal Nanocrystal Photocatalysts: Improved Hole Extraction and Altered Catalysis.](https://dx.doi.org/10.1021/acsami.1c17304) *ACS Applied Materials & Interfaces* **2021**
