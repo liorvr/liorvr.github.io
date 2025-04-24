@@ -7,6 +7,7 @@ author_profile: true
 † denotes equal contribution
 
 {: reversed="reversed"}
+1. Y. Jiang<sup>†</sup>, H. K. D. Le<sup>†</sup>, **L. Verbitsky**, H. DeVyldere, A. M. Oddo, B. Pan, H. Song, C. Zhu, H. Zhu, M. C. Scott, P. Yang. [Emissive Chalcogenide Perovskite Nanowires.](https://dx.doi.org/10.1021/acs.nanolett.5c00815) *Nano Letters* **2025**
 1. A. Levi, B. Hou, O. Alon, Y. Ossia, **L. Verbitsky**, S. Remennik, E. Rabani, U. Banin. [The Effect of Monomer Size on Fusion and Coupling in Colloidal Quantum Dot Molecules.](https://dx.doi.org/10.1021/acs.nanolett.3c03903) *Nano Letters* **2023**
 1. **L. Verbitsky**, D. Jasrasaria, U. Banin, E. Rabani. [Hybridization and deconfinement in colloidal quantum dot molecules.](https://dx.doi.org/10.1063/5.0112443) *The Journal of Chemical Physics* **2022**
 1. S. Koley, J. Cui, Y. Panfil, Y. Ossia, A. Levi, E. Scharf, **L. Verbitsky**, U. Banin. [Photon Correlations in Colloidal Quantum Dot Molecules Controlled by the Neck Barrier.](https://dx.doi.org/10.1016/j.matt.2022.07.032) *Matter* **2022**
