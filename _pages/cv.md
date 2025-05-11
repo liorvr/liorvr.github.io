@@ -29,5 +29,7 @@ Work experience
 
 Peer review
 ======
-Full list can be found on [my ORCID](https://orcid.org/0000-0003-3072-2445#peer-reviews).
+I reviewed manuscripts for the following journals:
 * [Nano Letters](https://pubs.acs.org/journal/nalefd)
+A full list can be found on [ORCID](https://orcid.org/0000-0003-3072-2445#peer-reviews).
+
