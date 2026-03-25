@@ -7,7 +7,7 @@ author_profile: true
 † denotes equal contribution
 
 {: reversed="reversed"}
-1. A. M. Oddo<sup>†</sup>, H. Cho<sup>†</sup>, R. Rana, D. Chabeda, Y. Jiang, **L. Verbitsky**, C. Song, E. Rabani, D. T. Limmer, P. Yang. [Carrier Dynamics of Strongly Confined CsPbI<sub>†</sub> Nanowires.](https://dx.doi.org/10.1021/acsnano.5c19968) *ACS Nano* **2026**
+1. A. M. Oddo<sup>†</sup>, H. Cho<sup>†</sup>, R. Rana, D. Chabeda, Y. Jiang, **L. Verbitsky**, C. Song, E. Rabani, D. T. Limmer, P. Yang. [Carrier Dynamics of Strongly Confined CsPbI<sub>3</sub> Nanowires.](https://dx.doi.org/10.1021/acsnano.5c19968) *ACS Nano* **2026**
 1. Y. Jiang<sup>†</sup>, H. K. D. Le<sup>†</sup>, **L. Verbitsky**, H. DeVyldere, A. M. Oddo, B. Pan, H. Song, C. Zhu, H. Zhu, M. C. Scott, P. Yang. [Emissive Chalcogenide Perovskite Nanowires.](https://dx.doi.org/10.1021/acs.nanolett.5c00815) *Nano Letters* **2025**
 1. A. Levi, B. Hou, O. Alon, Y. Ossia, **L. Verbitsky**, S. Remennik, E. Rabani, U. Banin. [The Effect of Monomer Size on Fusion and Coupling in Colloidal Quantum Dot Molecules.](https://dx.doi.org/10.1021/acs.nanolett.3c03903) *Nano Letters* **2023**
 1. **L. Verbitsky**, D. Jasrasaria, U. Banin, E. Rabani. [Hybridization and deconfinement in colloidal quantum dot molecules.](https://dx.doi.org/10.1063/5.0112443) *The Journal of Chemical Physics* **2022**
