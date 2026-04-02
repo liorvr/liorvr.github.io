@@ -7,6 +7,7 @@ author_profile: true
 † denotes equal contribution
 
 {: reversed="reversed"}
+1. H. Zhu<sup>†</sup>, C. Zhu<sup>†</sup>, H. K. D. Le<sup>†</sup>, D. Chabeda, B. Field, C. Wen, A. M. Oddo, Y. Jiang, L. Jayasinghe, Y. Shan, **L. Verbitsky**, H. Jayakumar, S. M. Griffin, E. Rabani & P. Yang  [Supramolecular assembly of molecular wires alternating crown ethers and metal–halide complexes.](https://dx.doi.org/10.1038/s41557-026-02101-0) *Nature Chemistry* **2026**
 1. A. M. Oddo<sup>†</sup>, H. Cho<sup>†</sup>, R. Rana, D. Chabeda, Y. Jiang, **L. Verbitsky**, C. Song, E. Rabani, D. T. Limmer, P. Yang. [Carrier Dynamics of Strongly Confined CsPbI<sub>3</sub> Nanowires.](https://dx.doi.org/10.1021/acsnano.5c19968) *ACS Nano* **2026**
 1. Y. Jiang<sup>†</sup>, H. K. D. Le<sup>†</sup>, **L. Verbitsky**, H. DeVyldere, A. M. Oddo, B. Pan, H. Song, C. Zhu, H. Zhu, M. C. Scott, P. Yang. [Emissive Chalcogenide Perovskite Nanowires.](https://dx.doi.org/10.1021/acs.nanolett.5c00815) *Nano Letters* **2025**
 1. A. Levi, B. Hou, O. Alon, Y. Ossia, **L. Verbitsky**, S. Remennik, E. Rabani, U. Banin. [The Effect of Monomer Size on Fusion and Coupling in Colloidal Quantum Dot Molecules.](https://dx.doi.org/10.1021/acs.nanolett.3c03903) *Nano Letters* **2023**
