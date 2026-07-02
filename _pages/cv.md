@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Chemistry, University of California, Berkeley, 2022 –
+* Ph.D. in Chemistry, Princeton University, 2026 –
+  * Advised by [Prof. Leslie Schoop](https://schoop.princeton.edu/)
+* M.S. in Chemistry, University of California, Berkeley, 2022 – 2025
 * M.Sc. in Chemistry, The Hebrew University of Jerusalem, 2019 – 2022
   * Advised by [Prof. Uri Banin](https://openscholar.huji.ac.il/baningroup/) and [Prof. Eran Rabani](http://www.cchem.berkeley.edu/ergrp/)
 * B.Sc. in Chemistry, The Hebrew University of Jerusalem, 2015 – 2019
