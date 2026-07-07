@@ -20,6 +20,9 @@ Education
 
 Work experience
 ======
+* 2026 – 2026: Staff Scientist
+  * Lab of [Prof. Leslie Schoop](https://schoop.princeton.edu/)
+  
 * 2019 – 2021: R&D Chemist
   * Israel Defense Forces
   
