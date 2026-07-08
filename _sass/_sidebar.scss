@@ -70,31 +70,36 @@
    ========================================================================== */
 
 .author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 44px;
+  min-width: 44px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    min-width: 0;
+    height: auto;
+  }
+
   img {
     display: block;
-    max-width: 175px;
-    aspect-ratio: 1 / 1;
+    width: 44px;
+    height: 44px;
     object-fit: cover;
     border-radius: 50%;
     background: #fff;
-    box-shadow: 0 6px 18px rgba(#000, 0.14);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
 
     @include breakpoint($large) {
+      width: 175px;
+      height: 175px;
       padding: 4px;
       border: 1px solid $border-color;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.14);
     }
   }
 }
-
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
 
 .author__content {
   display: table-cell;
