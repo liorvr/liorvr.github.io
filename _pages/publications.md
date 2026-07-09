@@ -24,5 +24,6 @@ author_profile: true
 
 ## Preprints
 
+{: reversed="reversed"}
 1. **L. Verbitsky**, A. Merino, S. B. Lee, J. M. Moya, S. Aharon, F. Katmer, S. Chatterjee, G. Skorupskii, J. Leeman, G. Carrel, L. M. Schoop. [New Superconductors in the PtPb<sub>3</sub>Bi Structure Type.](https://doi.org/10.48550/arXiv.2606.26258)
 1. H. Laurell, K. Xiong, N. Ouahioune, T. Kjellberg Jensen, J. R. Adelman, K. J. Gannan, R. Quintero-Bermudez, **L. Verbitsky**, H. K. D. Le, A. Mikkelsen, P. Yang, C. Hägglund, S. R. Leone. [From interface-limited to Auger-dominated carrier dynamics in π-SnS.](https://doi.org/10.48550/arXiv.2602.13886)
