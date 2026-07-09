@@ -7,7 +7,7 @@ author_profile: true
 † denotes equal contribution
 
 {: reversed="reversed"}
-1. H.K.D. Le, D. Chabeda, A. Bostwick, C. Jozwiak, E. Rotenberg, N. Tamura, A. Phang, C. Zhu, **L. Verbitsky**, E. Rabani, P. Yang. [Electronic Band Structures of a Germanium Halide Perovskite Semiconductor.](https://dx.doi.org/10.1021/acsphotonics.6c00273) *ACS Photonics* **2026**
+1. H. K. D. Le, D. Chabeda, A. Bostwick, C. Jozwiak, E. Rotenberg, N. Tamura, A. Phang, C. Zhu, **L. Verbitsky**, E. Rabani, P. Yang. [Electronic Band Structures of a Germanium Halide Perovskite Semiconductor.](https://dx.doi.org/10.1021/acsphotonics.6c00273) *ACS Photonics* **2026**
 1. H. Zhu<sup>†</sup>, C. Zhu<sup>†</sup>, H. K. D. Le<sup>†</sup>, D. Chabeda, B. Field, C. Wen, A. M. Oddo, Y. Jiang, L. Jayasinghe, Y. Shan, **L. Verbitsky**, H. Jayakumar, S. M. Griffin, E. Rabani & P. Yang. [Supramolecular assembly of molecular wires alternating crown ethers and metal–halide complexes.](https://dx.doi.org/10.1038/s41557-026-02101-0) *Nature Chemistry* **2026**
 1. A. M. Oddo<sup>†</sup>, H. Cho<sup>†</sup>, R. Rana, D. Chabeda, Y. Jiang, **L. Verbitsky**, C. Song, E. Rabani, D. T. Limmer, P. Yang. [Carrier Dynamics of Strongly Confined CsPbI<sub>3</sub> Nanowires.](https://dx.doi.org/10.1021/acsnano.5c19968) *ACS Nano* **2026**
 1. Y. Jiang<sup>†</sup>, H. K. D. Le<sup>†</sup>, **L. Verbitsky**, H. DeVyldere, A. M. Oddo, B. Pan, H. Song, C. Zhu, H. Zhu, M. C. Scott, P. Yang. [Emissive Chalcogenide Perovskite Nanowires.](https://dx.doi.org/10.1021/acs.nanolett.5c00815) *Nano Letters* **2025**
@@ -21,3 +21,8 @@ author_profile: true
 ## Patents
 
 1. U. Banin, S. Magdassi, N. Waiskopf, **L. E. Verbitsky**. [Nanoparticles and formulations for printing.](https://patents.google.com/patent/US11608394B2/) *US Patent 11,608,394* **2023**
+
+## Preprints
+
+1. **L. Verbitsky**, A. Merino, S. B. Lee, J. M. Moya, S. Aharon, F. Katmer, S. Chatterjee, G. Skorupskii, J. Leeman, G. Carrel, L. M. Schoop. [New Superconductors in the PtPb<sub>3</sub>Bi Structure Type.](https://doi.org/10.48550/arXiv.2606.26258)
+1. H. Laurell, K. Xiong, N. Ouahioune, T. Kjellberg Jensen, J. R. Adelman, K. J. Gannan, R. Quintero-Bermudez, **L. Verbitsky**, H. K. D. Le, A. Mikkelsen, P. Yang, C. Hägglund, S. R. Leone. [From interface-limited to Auger-dominated carrier dynamics in π-SnS.](https://doi.org/10.48550/arXiv.2602.13886)
